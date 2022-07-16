@@ -1,0 +1,16 @@
+
+/* body{
+    margin:0px
+}  */
+div{
+    background-color:aquamarine;
+    width: 100%;
+    height: 1000px;
+    border-width:5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: blueviolet;
+    padding: 10px;
+}
+
+/* border shorthand=> border: width style color */
