@@ -1,5 +1,3 @@
-Previous
-1. CSS -> cascading style sheet -> styling
 
 AGENDA
 1. Topography CSS => arranging the content
@@ -25,15 +23,25 @@ AGENDA
     d. text-align => alignment - left, right, centre
 
 3. Box Model
+
     a. content
+
     b. padding
+
         arg: all sides will have 10px padding
+
         arg1 arg2: arg1 (top and bottom), arg2(left right)
+
         arg1 arg2 arg3 : top(arg1), left and right(arg2), bottom(arg3)
+
         arg1 arg2 arg3 arg4: top right bottom left
+
     c. border
+
         -> border-width, border-color, border-style, border-radius
+
     d. margin => default it is 8px
+
     e. dimension
         i. height
         ii. width
